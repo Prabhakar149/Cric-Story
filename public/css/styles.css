@@ -1,0 +1,51 @@
+body{
+    text-align: center;
+    background-color: peachpuff;
+}
+.myHeading{
+    color: rgb(242, 99, 64);
+    padding: 2rem 2rem;
+}
+.myNavbar{
+    text-align: center;
+    padding: 0 170px;
+}
+.contact-body{
+    background-image:url(images/cricImg.jpg);
+}
+.contact-div{
+    color: rgba(35, 4, 49, 0.391);
+    margin-top: 150px;
+}
+.login-section{
+    margin-top: 100px;
+}
+.goHome{
+    color: brown;
+}
+.myCard{
+    justify-content:center;
+    margin-left: 400px;
+    margin-top: 200px;
+    padding: 100px 50px;
+    background-color:rgba(240, 198, 161, 0.989);
+    width: 50%;
+    height: 50%;
+}
+.myCard1{
+   
+    margin-left: 500px;
+    /* margin-top: 200px; */
+    padding: 100px 50px;
+    /* background-color:rgba(4, 105, 60, 0.989); */
+    width: 30%;
+    height: 30%;
+}
+.myLogo{
+    position: fixed;
+    left: 200px;
+}
+.mydivLogo{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
