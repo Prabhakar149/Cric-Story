@@ -14,8 +14,12 @@ body{
     background-image:url(images/cricImg.jpg);
 }
 .contact-div{
-    color: rgba(35, 4, 49, 0.391);
-    margin-top: 150px;
+    color: rgba(230, 131, 69, 0.746);
+    margin-top: 123px;
+}
+.contact-heading{
+    color: rgb(170, 3, 142);
+    font-weight:bolder;
 }
 .login-section{
     margin-top: 100px;
@@ -48,4 +52,43 @@ body{
 .mydivLogo{
     padding-top: 50px;
     padding-bottom: 50px;
+}
+.myNav{
+    padding-left: 80%;
+}
+/* _____________________________________________________________________________ */
+/* for mobile devices */
+@media (max-width:600px){
+    .home-image{
+        width: 28rem;
+        height: 28rem;
+    }
+    .contact-heading{
+        color: rgb(170, 3, 142);
+        margin-top: 10px;
+        /* font-weight:bolder; */
+    }
+    .contact-div{
+        color: rgba(230, 131, 69, 0.746);
+        margin-top: 65px;
+    }
+
+    .login-section{
+        margin-top: 100px;
+    
+    }
+    .myCard1{
+        position: relative;
+        right: 80%;
+    }
+    .login-head{
+        font-size: 1.5rem;
+    }
+    .myLogo{
+        position: static;
+        
+    }
+
+   
+   
 }
