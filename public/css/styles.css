@@ -58,7 +58,7 @@ body{
 }
 /* _____________________________________________________________________________ */
 /* for mobile devices */
-@media (max-width:360px){
+@media (max-width:600px){
     .home-image{
         width: 28rem;
         height: 28rem;
